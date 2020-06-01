@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# reading-notes-301-part-2
 
-You can use the [editor on GitHub](https://github.com/racarter1215/reading-notes-301-part-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Table of Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/racarter1215/reading-notes-301-part-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Reading 1](https://racarter1215.github.io/reading-notes-301-part-2/reading-1)
+### [Reading 2](https://racarter1215.github.io/reading-notes-301-part-2/reading-2)
+### [Reading 3](https://racarter1215.github.io/reading-notes-301-part-2/reading-3)
+### [Reading 4](https://racarter1215.github.io/reading-notes-301-part-2/reading-4)
+### [Reading 5](https://racarter1215.github.io/reading-notes-301-part-2/reading-5)
+### [Reading 6](https://racarter1215.github.io/reading-notes-301-part-2/reading-6)
+### [Reading 7](https://racarter1215.github.io/reading-notes-301-part-2/reading-7)
+### [Reading 8](https://racarter1215.github.io/reading-notes-301-part-2/reading-8)
+### [Reading 9](https://racarter1215.github.io/reading-notes-301-part-2/reading-9)
+### [Reading 10](https://racarter1215.github.io/reading-notes-301-part-2/reading-10)
+### [Reading 11](https://racarter1215.github.io/reading-notes-301-part-2/reading-11)
+### [Reading 12](https://racarter1215.github.io/reading-notes-301-part-2/reading-12)
+### [Reading 13](https://racarter1215.github.io/reading-notes-301-part-2/reading-13)
+### [Reading 14](https://racarter1215.github.io/reading-notes-301-part-2/reading-14)
+### [Reading 15](https://racarter1215.github.io/reading-notes-301-part-2/reading-15)
