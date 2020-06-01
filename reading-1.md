@@ -26,7 +26,7 @@
 
 ##### Flexible layouts don't like to use fixed measurement units because the viewport height and width continually change from device to device.
 
-##### target ÷ context = result!!!!!!
+##### target ÷ context = result!!!!!!!
 
 ### Flexible Grid
 
